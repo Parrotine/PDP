@@ -36,6 +36,8 @@ html {
 
 .section-one p {
 	padding-bottom: 10px;
+	padding-left: 20%;
+	padding-right: 20%;
 }
 
 .section-one img {
@@ -63,6 +65,10 @@ html {
 	display: inline-block;
 }
 
+.embrace .sitting, .raise {
+	padding: 0 20%;
+}
+
 .embrace h1 {
 	text-align: center;
 }
@@ -86,6 +92,10 @@ html {
 
 .give h1, h2 {
 	text-align: center;
+}
+
+.give p {
+	padding: 0 20%;
 }
 /* END give */
 
@@ -114,6 +124,10 @@ html {
 
 .tools ul li img {
 	padding-right: 20px;
+}
+
+.tools .great {
+	padding: 0 20%;
 }
 /* END tools */
 
@@ -162,6 +176,10 @@ html {
 .content {
 	margin: 0 auto;
 	min-width: 37.5rem;
+}
+
+.content p {
+	padding: 20px 20% 40px 20%;
 }
 
 .cases .content ul.devices {
