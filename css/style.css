@@ -182,17 +182,17 @@ html {
 	padding: 20px 20% 40px 20%;
 }
 
-.cases .content ul.devices {
+.devices li{
 	list-style: none;
-}
-
-.cases .content .devices > li {
 	width: 30%;
 	float: left;
 }
 /* END workspace */
 
-
+.devices li .caption p {
+	text-align: justify;
+	padding: 0 10%;
+}
 
 
 /* MISC. rules */
