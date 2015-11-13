@@ -12,7 +12,9 @@ html, body {
 /* END reset */
 
 
-
+html {
+	background-color: #F4F4F4;
+}
 
 /* CONTAINER rules */
 .container {
